@@ -1,15 +1,15 @@
 Free & Open API for Timeshare Advertising
-=========================================
+-----------------------------------------
 
 An innovate way for the many different free classified websites to share certain data and allow the community to communicate and grow together.
 
 Status: Design
 
-Initial design is expected to be live at sellerlink.net sometime in the first quarter of 2014.
+Initial design is expected to be live at [sellerlink.net](http://sellerlink.net) sometime in the first quarter of 2014.
 
 Proposals
 ---------
-- Schemas extended from schema.org
+- Schemas extended from [schema.org](http://schema.rdfs.org/)
 - Language agnostic: Widgets in Javascript, PHP, ASP, Python, Node.js, Ruby
 - Initially can be driven by scraping and overlaying the API on top of public-facing forms
 
