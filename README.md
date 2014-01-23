@@ -1,7 +1,7 @@
 Free & Open API for Timeshare Advertising
 -----------------------------------------
 
-An innovate way for the many different free classified websites to share certain data and allow the community to communicate and grow together.
+An innovative way for the many different free classified websites to share certain data and allow the community to communicate and grow together.
 
 Status: Design
 
